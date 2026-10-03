@@ -7,7 +7,7 @@ A backend for a confidential reporting system. Anyone can submit a report with n
 ## Setup
 
 ```bash
-git clone <your-repo-url> && cd whistledrop
+git clone <https://github.com/himanshhuu973/whistledrop.git> && cd whistledrop
 npm install
 cp .env.example .env     # then edit the secrets (see below)
 npm run seed             # creates the moderator account from .env
